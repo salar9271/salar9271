@@ -3,12 +3,15 @@
 
 - 🎓 Studying Complex Adaptive Systems at GU & Chalmers University
 - 🤖 Interested in Robotics, Machine Learning, and Optimization
-- 📫 How to reach me:  
+- 🎯 How to reach me **[your-email@example.com](salarg@chalmers.se)**  
+
+---
+
+### Connect with me:
+<p align="left">
+
   <a href="https://linkedin.com/in/salar-ghanbari-160722216">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 ---
