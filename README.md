@@ -3,17 +3,15 @@
 
 - 🎓 Studying Complex Adaptive Systems at GU & Chalmers University
 - 🤖 Interested in Robotics, Machine Learning, and Optimization
-- 🎯 How to reach me **[your-email@example.com](salarg@chalmers.se)**  
-
----
+- 🎯 How to reach me **[salarg@chalmers.se](mailto:salarg@chalmers.se)**  
 
 ### Connect with me:
 <p align="left">
-
   <a href="https://linkedin.com/in/salar-ghanbari-160722216">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 ---
 
 ### Languages and Tools:
@@ -37,5 +35,3 @@
 ### Projects:
 - [Advance-simulation-and-Machine-Learning](https://github.com/salar9271/Advance-simulation-and-Machine-Learning) (Public)
 - [StochasticOptimizationAlgorithms](https://github.com/salar9271/StochasticOptimizationAlgorithms) (Public)
-
----
