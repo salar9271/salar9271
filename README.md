@@ -4,14 +4,8 @@
 - 🎓 Studying Complex Adaptive Systems at GU & Chalmers University
 - 🤖 Interested in Robotics, Machine Learning, and Optimization
 - 📫 How to reach me:
-<p align="left">
-  </a>
-  <a href="https://www.linkedin.com/in/salar-ghanbari-160722216" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" width="26"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salar-ghanbari-160722216) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 ---
 
 ### Languages and Tools:
