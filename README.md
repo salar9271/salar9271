@@ -29,9 +29,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   </a>
 </p>
-
----
-
-### Projects:
-- [Advance-simulation-and-Machine-Learning](https://github.com/salar9271/Advance-simulation-and-Machine-Learning) (Public)
-- [StochasticOptimizationAlgorithms](https://github.com/salar9271/StochasticOptimizationAlgorithms) (Public)
