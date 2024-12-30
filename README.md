@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Salar
+### AI Student | Robotics Enthusiast
 
-<!--
-**salar9271/salar9271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying Complex Adaptive Systems at Chalmers
+- 🤖 Interested in Robotics, Machine Learning, and Optimization
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salar-ghanbari-160722216)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+- [Advance-simulation-and-Machine-Learning](https://github.com/salar9271/Advance-simulation-and-Machine-Learning) (Public)
+- [StochasticOptimizationAlgorithms](https://github.com/salar9271/StochasticOptimizationAlgorithms) (Public)
