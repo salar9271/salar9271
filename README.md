@@ -3,7 +3,10 @@
 
 - 🎓 Studying Complex Adaptive Systems at GU & Chalmers University
 - 🤖 Interested in Robotics, Machine Learning, and Optimization
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salar-ghanbari-160722216)
+- 📫 How to reach me: 
+  <a href="https://www.linkedin.com/in/salar-ghanbari-160722216" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/>
+  </a>
 
 ---
 
