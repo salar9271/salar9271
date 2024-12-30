@@ -9,7 +9,9 @@
   <a href="https://www.linkedin.com/in/salar-ghanbari-160722216" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/>
   </a>
-
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" width="26"/>
+  </a>
 ---
 
 ### Languages and Tools:
